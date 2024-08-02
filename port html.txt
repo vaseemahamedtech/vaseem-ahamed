@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" />
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/ac42c3b1f7.js" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/a9c77f015f.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="bg1">
+        <div class="container">
+            <div class="row ">
+                <div class="col-12 mt-3 col-md-6 d-md-none">
+
+                    <h1 class="head1">About me</h1>
+                </div>
+                <div class="col-12 mt-5 order-md-1 col-md-6">
+                    <img src="https://res.cloudinary.com/dtbjsvktk/image/upload/v1720623422/IMG-20231225-WA0011_jmsgjc.jpg" alt="Serene landscape with a lake and pier" style="width:100%; max-width:600px; height:100%;">
+                </div>
+                <div class="col-12 col-md-6 d-md-none">
+                    <p class="para2 mt-4">I'm Vaseem Ahamed. As an 18-year-old third-year B.Tech student specializing in Artificial Intelligence and Data Science at Crescent Institute of Science and Technology, I possess strong backend development skills in C, Python, and R. My academic journey is complemented by a junior typewriting course, completed with first-class distinction.
+                        <br />
+                        <br />
+                        In addition to my core studies, I have successfully completed courses in cloud computing via NPTEL and a Python course through the Naan Mudhalvan website. My commitment to continuous learning ensures I stay updated with the latest technological advancements.
+
+                    </p>
+                </div>
+                <div class="col-12 mt-5 col-md-6 d-none d-md-block d-xl-none order-md-2">
+                    <h1 class="head1">About me</h1>
+                    <p class="para2 mt-4">I'm Vaseem Ahamed. As an 18-year-old third-year B.Tech student specializing in Artificial Intelligence and Data Science at Crescent Institute of Science and Technology, I possess strong backend development skills in C, Python, and R. My academic journey is complemented by a junior typewriting course, completed with first-class distinction.
+                        <br />
+                        <br />
+                        In addition to my core studies, I have successfully completed courses in cloud computing via NPTEL and a Python course through the Naan Mudhalvan website. My commitment to continuous learning ensures I stay updated with the latest technological advancements.
+                    </p>
+                </div>
+                <div class="col-12 d-xl-none order-md-3 mt-3">
+                    <p class="para2 ">
+                        Beyond academics, I enjoy watching anime and listening to music. My dream is to explore various places and experience the beauty of nature, especially at night, adding a sense of tranquility to my adventurous spirit.
+                    </p>
+                </div>
+
+                <div class="col-12  col-md-6 d-none d-xl-block order-md-2 mt-5">
+                    <h1 class="head1">About me</h1>
+                    <p class="para2 mt-4 ">I'm Vaseem Ahamed. As an 18-year-old third-year B.Tech student specializing in Artificial Intelligence and Data Science at Crescent Institute of Science and Technology, I possess strong backend development skills in C, Python, and R. My academic journey is complemented by a junior typewriting course, completed with first-class distinction.
+                        <br />
+                        <br />
+                        In addition to my core studies, I have successfully completed courses in cloud computing via NPTEL and a Python course through the Naan Mudhalvan website. My commitment to continuous learning ensures I stay updated with the latest technological advancements.
+                        <br />
+                        <br />
+                        Beyond academics, I enjoy watching anime and listening to music. My dream is to explore various places and experience the beauty of nature, especially at night, adding a sense of tranquility to my adventurous spirit.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="bg2">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 mt-5">
+                    <p class="para3">Skills :</p>
+                </div>
+
+                <div class="shadow mt-3 col-5 col-md-2 ml-3 mr-3 contain1 text-center d-flex flex-column justify-content-center">
+                    <div class="d-flex flex-row justify-content-center">
+                        <img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-skills-html-img.png" class="img1">
+                    </div>
+                    <h4 class="head2">HTML</h4>
+                </div>
+
+                <div class="shadow mt-3 col-5 col-md-2 ml-3 mr-3 contain1 text-center d-flex flex-column justify-content-center">
+                    <div class="d-flex flex-row justify-content-center">
+                        <img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-skills-css-img.png" class="img1">
+                    </div>
+                    <h4 class="head2">CSS</h4>
+                </div>
+
+                <div class="shadow mt-3 col-5 col-md-2 ml-3 mr-3 contain1 text-center d-flex flex-column justify-content-center">
+                    <div class="d-flex flex-row justify-content-center">
+                        <img src="https://logolook.net/wp-content/uploads/2022/12/Python-Software-Foundation-Emblem.png" class="img2">
+                    </div>
+                    <h4 class="head2">python</h4>
+                </div>
+
+                <div class="shadow mt-3 col-5 col-md-2 ml-3 mr-3 contain1 text-center d-flex flex-column justify-content-center">
+                    <div class="d-flex flex-row justify-content-center">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" class="img2">
+                    </div>
+                    <h4 class="head2">R Studio</h4>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="bg3-1 pb-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 mt-5">
+
+                    <h1 class="head3-1">Projects I have done</h1>
+                </div>
+            </div>
+        </div>
+
+        <div class="bg3-2 ml-4 pb-3 mb-4 flex-col-10 flex-col-md-4 order-1">
+            <div>
+                <img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-project-1-img.png" class="img3-1">
+            </div>
+            <div class="mb-2 mt-3 ml-4">
+                <p class="para3-2 ">Web design</p>
+                <h3 class="head3-2">Royal Grand Hotel</h3>
+                <p class="para3-3">Royal Grand Hotel is a Simple Static Website. We can use this layout for building the other websites...</p>
+
+            </div>
+        </div>
+        <div class="bg3-2 ml-4 pb-3 flex-col-md-4 flex-col-10 order-2">
+            <div>
+                <img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-project-2-img.png" class="img3-1">
+            </div>
+            <div class="mt-3 ml-4">
+                <p class="para3-2 ">Web design</p>
+                <h3 class="head3-2">Happy Meals</h3>
+                <p class="para3-3">Happy Meals is the best-in-class food ordering page today. With interactive UI/UX and simple call to actions...</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="bg4-1">
+        <div class="container d-flex flex-column justify-content-center">
+            <div class="row">
+                <div class="col-12 col-lg-3 mt-5">
+                    <h2 class="head4-1">Phone No.</h2>
+                    <div class="mt-4 d-flex flex-row justify-content-top">
+                        <i class="fa-solid fa-phone icon4-1"></i>
+                        <p class="para4-2 ml-3">8438828654</p>
+                    </div>
+                </div>
+                <div class="col-12  col-lg-4 mt-5">
+                    <h2 class="head4-1">E-mail</h2>
+                    <div class="mt-4 d-flex flex-row justify-content-top">
+                        <i class="fa-solid fa-envelope img4-5" style="color: #5a7184;"></i>
+                        <p class="para4-2 ml-3">vaseem04112005@gmail.com</p>
+                    </div>
+                </div>
+                <div class="col-12  col-lg-4 mt-5">
+                    <h2 class="head4-1">Address</h2>
+                    <div class="mt-4 d-flex flex-row justify-content-top">
+                        <i class="fa-solid fa-map-location img4-5" style="color: #5a7184;"></i>
+                        <p class="para4-2 ml-3">1/209 , four road , thurinjipatti , Bommidi , dharmapuri</p>
+                    </div>
+                </div>
+                <div class="pt-3 pb-3 bg4-2 col-12 d-flex flex-row justify-content-center">
+                    <div class="icon4-2 text-center">
+                        <i class="fa-regular fa-copyright icon4-3" style="color: #b7b9c2;"></i>
+                    </div>
+                    <div class="mt-2 ml-2">
+                        <h5 class="para4-2">2024 Vaseem.</h5>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+</body>
+
+</html>
